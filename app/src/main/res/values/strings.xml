@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">15 Puzzle</string>
+
+    <string name="submit">Play</string>
+    <string name="puzzle">15 Puzzle</string>
+    <string name="desc"> rows x columns: </string>
+    <string name="info"> Info </string>
+
+    <string name="title_activity_config_screen">15 Puzzle</string>
+</resources>
